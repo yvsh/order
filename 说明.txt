@@ -1,0 +1,11 @@
+代码:
+https://github.com/sktm4a1/mall-comment
+video:
+https://www.imooc.com/learn/1061
+
+创建一个react的项目:
+npx create-react-app my-order
+
+cd my-order
+yarn start
+
